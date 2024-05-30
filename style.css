@@ -64,7 +64,7 @@ a {
 }
 
 .right {
-
+    padding-left: 10px;
 }
 
 #image {
@@ -87,10 +87,20 @@ a {
 .fourContainer {
     display: flex;
     justify-content: center;
+    gap: 5px;
+}
+
+#figureImage {
+    height: 200px;
+    width: 200px;
 }
 
 figure {
 
+}
+
+figcaption {
+    text-align: center;
 }
 
 .quote {
