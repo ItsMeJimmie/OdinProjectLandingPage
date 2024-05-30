@@ -34,7 +34,45 @@
     display: flex;
 }
 
+.left{
+
+}
+
+#title{
+
+}
+
+#paragraph{
+
+}
+
+#signUpButton {
+
+}
+
+.right {
+
+}
+
+#image {
+
+}
+
 .randomInformation {
+
+}
+
+#title2{
+    display: flex;
+    justify-content: center;
+}
+
+.fourContainer {
+    display: flex;
+    justify-content: center;
+}
+
+figure {
 
 }
 
@@ -42,7 +80,37 @@
 
 }
 
+.quoteContainer {
+
+}
+
+#blockQuote {
+
+}
+
+#author {
+
+}
+
 .signUp {
+
+}
+
+.signUpContainer {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+}
+
+#leftSide {
+
+}
+
+#rightSide {
+
+}
+
+#signUpButton2 {
 
 }
 
