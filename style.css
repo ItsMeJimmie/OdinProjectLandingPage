@@ -32,7 +32,7 @@ a {
 .upperContent {
     display: flex;
     background-color: #1F2937;
-    padding: 40px 80px 10px 80px;
+    padding: 40px 80px 40px 80px;
     
 }
 
@@ -58,8 +58,9 @@ a {
 #signUpButton {
     background-color: #3882F6;
     color: white;
-    border-radius: 20%;
+    border-radius: 10%;
     padding: 4px 15px 4px 15px;
+    margin-top: 5px;
 }
 
 .right {
@@ -67,12 +68,12 @@ a {
 }
 
 #image {
-    height: 500px;
+    height: 200px;
     width: 500px;
 }
 
 .randomInformation {
-
+    padding: 40px 80px 40px 80px;
 }
 
 #title2{
@@ -93,45 +94,59 @@ figure {
 }
 
 .quote {
-
+    background-color: #E5E7EB;
+    padding: 40px 80px 40px 80px;
 }
 
 .quoteContainer {
-
+    padding: 30px 80px 30px 80px;
 }
 
 #blockQuote {
-
+    
 }
 
 #author {
-
+    font-weight: bolder;
+    text-align: end;
 }
 
 .signUp {
-
+    padding: 40px 80px 40px 80px;
 }
 
 .signUpContainer {
     background-color: #3882F6;
     display: flex;
     justify-content: center;
+    border-radius: 1%;
+    padding: 25px 25px;
 }
 
 #leftSide {
-
+    color: white;
+    margin-right: 20px;
 }
 
 #rightSide {
-
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
 }
 
 #signUpButton2 {
-
+    background-color: #3882F6;
+    color: white;
+    border-radius: 10%;
+    border-color: white;
+    padding: 5px 25px;
 }
 
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #1F2937;
+    color: #F9FAF8;
+    padding: 5px 80px 10px 80px;
 }
