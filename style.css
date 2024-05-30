@@ -1,0 +1,53 @@
+/* Stylesheet */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.topBanner{
+    display: flex;
+    background-color: #1F2937;
+}
+
+#headerLogo {
+    flex: 1;
+    border: 2px solid red;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.navigation {
+    display: flex;
+    border: 2px solid blue;
+    align-items: center;
+    gap: 10px;
+    color: grey;
+}
+
+.upperContent {
+    display: flex;
+}
+
+.container {
+    display: flex;
+}
+
+.randomInformation {
+
+}
+
+.quote {
+
+}
+
+.signUp {
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
